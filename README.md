@@ -1,9 +1,7 @@
 ****<h1 align = "center"> Aliens in America case study </h1>****
 
-<h4 align = "left"> Agnieszka Karolina Szewczyk</h4><br><br><br><br>
+<h4 align = "left"> Agnieszka Karolina Szewczyk</h4><br><br>
 
-<h2> INTRODUCTION </h2>
-<br> <br>
 <h3> SCENARIO </h3>
 <P>You play a role as a newly hired Data Analyst for a pharmaceutical company. <br>
 It's the year 2022 and aliens are well known to be living amongst us. Unfortunately, some of the aliens are a bit... too alien... and would like to fit into society a bit more.<br>
@@ -19,7 +17,7 @@ It would be helpful to know If these aliens are hostile, Their diet, Their age. 
 <ul>
   <li> Is there any correlation between key characteristics and the alien hostality? </li>
 <li> What is the distribution of hostile and non-hostile aliens in the whole population? </li>
-  </ul><br>
+  </ul>
 
 <h2> PREPARE </h2>
 <ul>
@@ -54,8 +52,11 @@ location.csv, contains the city, state, country, and job of the aliens. <br>
 <br>
 Firstly, I had a look at population of aliens categorised by their type and the hostility distribution to see if there is correlation
 <br>
-The distribution between hostile and non-hostile aliens of each type is pretty much even. There is also no access to how the population was changing across the years to forecast how these values may grow in the future. </p> <br>
-<img src = "https://github.com/Ags-S/Iank-K-Aliens-in-America-study/blob/main/pivot_tables/Type.png">
+The distribution between hostile and non-hostile aliens of each type is pretty much even. There is also no access to how the population was changing across the years to forecast how these values may grow in the future. </p>
+ <br> 
+ <br>
+<img src = "https://github.com/Ags-S/Iank-K-Aliens-in-America-study/blob/main/pivot_tables/Type.png"> 
+ <br>
 <p>By looking at the gender distribution I can see the leading genders among aliens are by far Female and male, but the spread on hostile and non-hostile in all groups is nearly even.</p>
 <br>
 <img src = "https://github.com/Ags-S/Iank-K-Aliens-in-America-study/blob/main/pivot_tables/Gender.png">
@@ -72,7 +73,7 @@ The distribution between hostile and non-hostile aliens of each type is pretty m
   <br>
   <p> After collecting and summarising the statistics for aggressive aliens I have created dashboard using pivot charts. </p>
   <br>
-  <img src = "https://github.com/Ags-S/Iank-K-Aliens-in-America-study/blob/main/pivot_tables/feeding.png">
+  <img src = "https://github.com/Ags-S/Iank-K-Aliens-in-America-study/blob/main/dashboard.png">
   <br>
   
   <h2> ACT</h2>
